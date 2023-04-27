@@ -1,0 +1,146 @@
+EVALUATION D'ENTRAINEMENT
+
+Réaliser la maquette d'une application web responsive
+GDWFSRMDAWREXAIII2A
+
+NOTES:
+
+1-Points importants :
+
+-Le client est une Start-up
+-Le site ne comprend qu'une seule page.
+-La page propose aux utilisateurs le téléchargement d'une application nommée "Clipboard"
+-La page explique aux utilisateurs potentiels le fonctionnement de l'application.
+
+-Le client fournit la charte graphique, les icônes, les images et la palette de couleur
+souhaitée.
+-Le client attend de moi une approche UX et UI pour l'ellaboration d'une maquette
+responsive.
+-La maquette doit proposer une vue sur ecran 1440px et 375px.
+-Un tableau Kanban sera demandé pour le suivi du projet.
+
+-La conception de la maquette sera faite sous AdobeXD
+-La maquette sera exportée en PDF.
+-Le tableau de suivi sera visible sur Trello.
+
+****************************************************************************************
+
+2-Observation des sites concurrents :
+
+J'ai recherché des sites concurrents proposant le téléchargement d'application(s) sur
+une seule page. Parmis eux j'ai retenu : 
+
+- Adobe Acrobat Reader DC
+- Firefox
+- DropBox
+
+Bien que différents dans leur contenu, la structure des sites respectent toujours la même 
+logique. A savoir un background blanc, neutre ou très clair. Des boutons de téléchargement
+toujours très visibles et parfois placés sur plusieurs endroits dans la même page (centre,
+centre-bas, centre-gauche, haut-droite...). Tout est fait pour que l'utilisateur qui balaye
+la page du regard ne puisse pas le(s) rater.
+
+Il n'y a pas toujours d'images, mais des explications succintes et précises sur le produit.
+On va a l'essentiel pour que l'utilisateur n'ai pas le temps de se lasser et ferme la page.
+
+Le texte est dans une police d'écriture sans sérif, il est clair et abordable.
+Il manquerait peut être une commande rapide pour basculer la langue en anglais 
+si l'utilisateur le désire...
+
+Je vais donc reproduire cette logique au niveau de la disposition des éléments et du texte
+et tenter de rendre la page de mon projet attrayante et efficace.
+
+****************************************************************************************
+
+3-Besoins utilisateurs
+
+Les utilisateurs ne doivent pas "zapper" la page. Pour cela, celle-ci doit être claire, 
+facile à lire et par tout le monde, doit permettre de comprendre en 5 secondes de quoi
+il retourne, et doit permettre une action immédiate.
+
+-Logo visible en haut à gauche
+-Phrase d'accroche explicant en deux mots le contenu de l'application.
+-Texte explicatif simple et concis
+-Boutons de téléchargement immédiatement repérables avec deux styles différents et à
+deux endroits stratégiques différents (centre-bas, centre-gauche)
+-Image reflétant la compatibilité sur tout support.
+-Formes géométriques représentant le concept de l'application.
+-Background très clair pour une meilleure lecture
+-Commande rapide pour un changement de langue.
+
+****************************************************************************************
+
+4-Affectation des couleurs
+
+Pour respecter la charte graphique donnée par le client, les couleurs seront appliquées
+sur la page avec parcimonie afin de respecter son aération, sa facilité de lecture et
+son harmonie visuelle.
+
+La couleur Strong Cyan : sera appliquée sur le logo et les formes géométriques.
+(principalement en haut de page)
+
+La couleur Light Blue : sera réservée aux boutons de téléchargement en raison de sa
+valeur vive. Cela attire l'oeil.
+
+La couleur Dark Grayish Blue : sera affectée au texte principal, titre et logo. Sa
+valeur foncée contraste avec le fond et donne une lisibilité accrue.
+
+La couleur Grayish Blue : est donnée aux textes et icones de moindre importance ainsi
+qu'aux messages liés aux "clicks" sur les boutons "télécharger".
+
+La couleur White : représente le fond et la couleur du texte lorsque celui ci est
+appliqué sur un fond foncé.
+
+****************************************************************************************
+
+5-Phrases et mots d'accroche
+
+Slogan:
+
+"COPIEZ = ENREGISTREZ"
+
+-------------------------
+
+Texte explicatif :
+
+"ClipBoard est une application spécialement conçue
+pour vous faciliter la vie au quotidien.
+
+Par la simple action de copier votre texte, celui-ci sera
+automatiquement sauvegardé.
+
+Vous pourrez ainsi le retrouver plus tard si vous désirez
+y apporter des modifications."
+
+-------------------------
+
+Didacticiel rapide :
+
+"Son exécution s'effectue intuitivement à l'aide de "Ctrl + C" ou "Clic Droit>copier"."
+
+------------------------
+
+Compatibilité :
+
+"Le logiciel est compatible sur tous les supports : Desktop, tablettes
+et smartphones. Téléchargeable en un click, ci-dessous..."
+
+****************************************************************************
+
+6-Liens
+
+-TRELLO : https://trello.com/b/dtX620BD/evaluation-studi-application-responsive
+mail : serra-stephane@live.fr
+password : studiser01
+
+****************************************************************************
+
+Stéphane SERRA
+2023/03/27
+
+
+
+
+
+
+
